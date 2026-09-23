@@ -1,0 +1,12 @@
+1 try { . "c:\Users\criss\AppData\Local\Programs\Microsoft VS Code\7debcd0e2a\resources\app\out\vs\workbe...
+   2 (Set-ExecutionPolicy -Scope Process -ExecutionPolicy RemoteSigned) ; (& c:\Users\criss\Documents\gestor...
+   3 git status                                                                                                
+   4 git --oneline                                                                                             
+   5 git commit -m "Actualizacion"                                                                             
+   6 git push                                                                                                  
+   7 git status                                                                                                
+   8 git add .                                                                                                 
+   9 git status                                                                                                
+  10 git commit -m "actualizacion 2"                                                                           
+  11 git push                                                                                                  
+  12 histori       
